@@ -1,5 +1,4 @@
-# Automation for SpotOption (Java, Junit, Selenium WebDriver)
-Main task to cover scenario that describe below. Functionality of application it’s create tasks, delete them and edit.
+
 
 Application to work with:
 http://todomvc.com/examples/backbone/
